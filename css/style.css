@@ -7321,16 +7321,5 @@ h6 {
   padding-bottom: 150px;
 }
 
-@media(min-width:768px){
-  #logo{
-    height: 80px;
-  }
-}
-
-@media(max-width:767px){
-  #logo{
-  height: 50px;
-  }
-}
 
 /*# sourceMappingURL=style.css.map */
